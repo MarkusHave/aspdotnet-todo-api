@@ -6,7 +6,7 @@
 # Get all items
 GET /api/todoitems
 
-# Get one bt id
+# Get one by id
 GET /api/todoitems/:id
 
 # Create todo item
